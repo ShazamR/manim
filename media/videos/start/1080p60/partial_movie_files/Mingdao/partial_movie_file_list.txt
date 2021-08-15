@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/chen_yenru/manim/media/videos/start/1080p60/partial_movie_files/Mingdao/450974505_3944356969_3654228527.mp4'
+file 'file:/Users/chen_yenru/manim/media/videos/start/1080p60/partial_movie_files/Mingdao/34786186_2710967576_3654228527.mp4'
+file 'file:/Users/chen_yenru/manim/media/videos/start/1080p60/partial_movie_files/Mingdao/34786186_702051982_3957744351.mp4'
+file 'file:/Users/chen_yenru/manim/media/videos/start/1080p60/partial_movie_files/Mingdao/34786186_3628069636_835239628.mp4'
+file 'file:/Users/chen_yenru/manim/media/videos/start/1080p60/partial_movie_files/Mingdao/34786186_1152551009_340045350.mp4'
